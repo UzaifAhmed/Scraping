@@ -1,0 +1,17 @@
+Search iphone
+
+Click Mobiles
+
+https://uae.emaxme.com/search?q=iphone%3AallCategories%3Amobile # Remove iphone
+
+https://uae.emaxme.com/search?q=%3AallCategories%3Amobile
+
+<scroll and>
+click LOAD MORE PRODUCTS
+
+Ctrl+Shift+F	# in Network
+
+<scroll to queries>
+click 1st 
+
+<go to payload>
